@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839205547633",
+    "firebase_url": "https://mycontacts-b6206.firebaseio.com",
+    "project_id": "mycontacts-b6206",
+    "storage_bucket": "mycontacts-b6206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839205547633:android:341d02d54c9e71ac",
+        "android_client_info": {
+          "package_name": "arko.mycontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839205547633-i5u96dqarij918e7ijq69mo1uop3sc3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arko.mycontacts",
+            "certificate_hash": "981131e74d2ed9ff8f82e3669704685aef85adbe"
+          }
+        },
+        {
+          "client_id": "839205547633-u9vh1q7lun8bcch5e7u5ruet49kots1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2i7050Wz0Eaf1PfkkhoH3H0AH83a3esI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839205547633-u9vh1q7lun8bcch5e7u5ruet49kots1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
